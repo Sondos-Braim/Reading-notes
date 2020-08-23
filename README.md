@@ -5,7 +5,7 @@ To have a *growth mindset* is a very important factor if you want to lead a succ
 - Do **Not** compare yourself to other people.
 - Start your day with positive thunking. 
 
-:smile:
+:sunny:
 
 
 Sondos Al-Braim 
