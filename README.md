@@ -19,8 +19,8 @@ Sondos Al-Braim, English Language and Literature fresh graduate from the Univers
 
 
 
-Sondos Al-Braim, English Language and Literature fresh graduate from the University of Jordan, 21 years old. I am interested in writing.
-[My portfolio link](https://github.com/Sondos-Braim)
+[read4](https://sondos-braim.github.io/Reading-notes/read4)
+
 
 
 # Growth Mindset
