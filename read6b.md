@@ -1,0 +1,6 @@
+# How do computers work?
+Humans invented the computers to make the thinking easier. We could make equations and many other things. Take input, store the information, process it, and finally output the result. All computers work by these four steps, it has the input of any form, it stores it, processes it, and then we get the input in different forms as well.
+
+Computers have electrical wires and circuits and this is where it carries the information. The bit is the smallest information that the computer can store, it carries it in a single wire that can be on or off. When the bits are more, the information start to be more complex. All of the images and videos we view on our devices are represented using the binary system. These bits come together to form circuits which make the calculations. The smaller the wires in the circuits are, the faster the process will be.
+
+Computers contain Hardware which is visible and Software and they interact with each other through the CPU. We do not deal with computers using the binary system but we use programming languages that is similar to the English language so it is easier now. The operation system like Windows allows the CPU to switch between the programs.
