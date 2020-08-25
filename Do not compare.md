@@ -1,1 +1,0 @@
-Here is the page I will include the information about comparing yourself to others so you can aviod this and live a healthy mind-growing life.
