@@ -19,7 +19,7 @@ String operators: we use them with strings (texts).
 
 Logical operators: they deal with Boolean so the result is true or false
 
-(&&, ||)
+
 
 Functions are used in the JavaScript files to make the reading more organized or to call the function when you want to reuse the task.
 
