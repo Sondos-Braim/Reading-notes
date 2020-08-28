@@ -1,1 +1,0 @@
-Positive thinking is very vital for your everyday life style.
